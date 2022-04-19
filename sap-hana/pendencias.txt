@@ -1,0 +1,3 @@
+- Adicionar arquivos de configuração
+- Estruturar um pequeno projeto de exemplo
+- Desenvolver o README.md
